@@ -1,3 +1,5 @@
+Raspberry PiにDHT11というセンサーを使って、温度・湿度を計測するプログラムの実装をおこなう試み。
+
 # DHT11 Python library
 
 This simple class can be used for reading temperature and humidity values from DHT11 sensor on Raspberry Pi.
